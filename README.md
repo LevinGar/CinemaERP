@@ -1,1 +1,2 @@
 # CinemaERP
+Jorge Cruz Martínez
